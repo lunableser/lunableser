@@ -81,7 +81,7 @@ Exploring the integration between hardware and software through robotics.
 
 ---
 
-## ✩ GitHub Stats
+## ✩ GitHub Activity
 
 <div align="center">
 
