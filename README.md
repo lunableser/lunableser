@@ -1,58 +1,110 @@
-<h1 align="center">Luna Bleser</h1>
+<div align="center">
 
-<h3 align="center">Computer Science • CEFET-RJ</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7A1F3D&height=180&section=header&text=Luna%20Bleser&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-<h3 align="left">→ About Me</h3>
+<h3>Computer Science Student | CEFET-RJ</h3>
+
+<p>
+Building, learning and exploring technology through code.
+<br>
+Interested in software development, robotics, embedded systems and technology applied to real-world problems.</p>
+</div>
+
+---
+
+## ✩ About Me
+
+Computer Science student passionate about creating solutions through technology.
+
+I enjoy turning ideas into projects, exploring new concepts and challenging myself
+with programming, algorithms and real-world applications.
+
+Currently developing my skills through software projects, embedded systems and
+continuous learning.
+
+---
+
+## ✩ Current Projects
+
+### ✧ Virtual Reality Game
+
+Developing interactive experiences using:
+
+- Unity
+- C#
+
+Exploring game development, immersive technologies and interactive systems.
+<br>
+### ✧ Robotics Project
+
+Development of an autonomous line-following robot.
+
+My contribution focuses on the sensor system, including:
+- Infrared sensors
+- Calibration
+- Embedded programming with ESP32 and C++
+
+Exploring the integration between hardware and software through robotics.
+
+---
+
+## ✩ Tech Stack
 
 <p align="left">
-• Computer Science student <br>
-• Passionate about solving problems and learning new technologies <br>
-• Always looking for challenges that contribute to my growth
+
+<img src="https://skillicons.dev/icons?i=c,cpp,git,arduino,unity,vscode&theme=dark"/>
+
 </p>
 
-<h3 align="left">→ Connect with me</h3>
+---
+
+## ✩ Currently Learning
+
+- Data Structures & Algorithms
+- Embedded Systems
+- Software Development
+- Problem Solving
+
+---
+
+## ✩ Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/lunableser" target="_blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-b40000?style=flat&logo=linkedin&logoColor=white" />
-</a>
-</p>
 
-<h3 align="left">→ Languages and Tools</h3>
+<a href="https://linkedin.com/in/lunableser">
 
-<p align="left">
+<img src="https://img.shields.io/badge/LinkedIn-7A1F3D?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://isocpp.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.arduino.cc/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
-</a>
-
-<a href="https://unity.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/>
 </a>
 
 </p>
 
+---
 
-<h3 align="center">📊 GitHub Stats</h3>
+## ✩ GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="180em" 
-src="https://github-readme-stats.vercel.app/api/top-langs?username=lunableser&show_icons=true&title_color=b40000&text_color=c81414&locale=en&layout=compact" />
+<table>
+<tr>
 
-<img height="180em" 
-src="https://github-readme-stats.vercel.app/api?username=lunableser&show_icons=true&title_color=b40000&text_color=c81414&locale=en" />
+<td>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=lunableser&theme=dark&title_color=C2185B&icon_color=7A1F3D&text_color=ffffff&bg_color=0d1117"/>
+</td>
 
-</p>
+<td>
+<img height="120em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lunableser&layout=compact&theme=dark&title_color=C2185B&text_color=ffffff&bg_color=0d1117"/>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7A1F3D&height=100&section=footer"/>
+
+</div>
