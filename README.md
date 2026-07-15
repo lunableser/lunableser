@@ -82,18 +82,14 @@ Exploring the integration between hardware and software through robotics.
 ---
 
 ## ✩ GitHub Activity
-
 <div align="center">
-
 <table>
 <tr>
-
 <td>
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=lunableser&theme=dark&title_color=C2185B&icon_color=7A1F3D&text_color=ffffff&bg_color=0d1117"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=lunableser&theme=dark&title_color=C2185B&icon_color=7A1F3D&text_color=ffffff&bg_color=0d1117&cache_bust=1"/>
 </td>
-
 <td>
-<img height="120em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lunableser&layout=compact&theme=dark&title_color=C2185B&text_color=ffffff&bg_color=0d1117"/>
+<img height="120em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lunableser&layout=compact&theme=dark&title_color=C2185B&text_color=ffffff&bg_color=0d1117&cache_bust=1"/>
 </td>
 
 </tr>
