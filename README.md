@@ -52,7 +52,7 @@ Exploring the integration between hardware and software through robotics.
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,git,arduino,unity,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,git,arduino,unity,vscode&theme=dark"/>
 
 </p>
 
