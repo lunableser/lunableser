@@ -60,7 +60,6 @@ Exploring the integration between hardware and software through robotics.
 
 ## ✩ Currently Learning
 
-- Data Structures & Algorithms
 - Embedded Systems
 - Software Development
 - Problem Solving
